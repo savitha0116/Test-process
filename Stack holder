@@ -1,0 +1,16 @@
+                         All the deliverables you provide to stake holder after test completion
+
+
+The deliverables provide stakeholders with a clear understanding of the testing outcome, defects, and recommendations for future improvements.
+Deliverables in software testing are the tangible outputs created throughout the testing process, 
+including documents, reports, and other artifacts that provide information about the testing efforts and the quality of the software. 
+ 
+Key deliverables include the test plan, test cases, test scripts, test data, defect reports, and various 
+test reports, such as the test summary report, which are shared with stakeholders to ensure 
+requirements are met.   
+ 
+1. Test Execution Report: A report summarizing test execution results, including pass/fail status and defects found.
+2. Defect Report: A report detailing defects found during testing, including severity and priority.
+3. Test Summary Report: A high-level report summarizing test results and providing recommendations.
+4. Test Metrics: Metrics on test coverage, defect density, and test effectiveness.
+5. Test Closure Report: A report confirming test completion and providing insights into the testing process.
