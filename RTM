@@ -1,0 +1,18 @@
+                       A sample RTM document for E-commerce / Banking application
+
+1.Requirements Traceability Matrix.
+A Requirements Traceability Matrix (RTM) is a document that maps and inks requirements to test cases, ensuring that all requirements are tested and validated. 
+It helps to:
+1. Verify coverage: Ensure that all requirements are covered by test cases.
+2. Track changes: Track changes to requirements and update test cases accordingly.
+3. Ensure quality: Ensure that the application meets the specified.
+ RTM document typically includes:
+1. Requirement ID: Unique identifier for each requirement.
+2. Requirement Description: Brief description of each requirement.
+3. Test Case ID: Unique identifier for each test case.
+4. Test Case Description: Brief description of each test case.
+5. Status: Status of test case execution (e.g., pass, fail, not executed).
+REquirement Id    REquirement Description          Testcase        Testcase Description                                 Status
+REQ-1                User Registration                TC-1         Verify user registration Validation                  Pass/Fail
+REQ-2                Login Sucessfully                TC-2         Verify Login credentails                              Pass/Fail
+REQ-3                Payment Procssing                TC-3         Verify Payment Processing &valid card Details         pass/Fail
