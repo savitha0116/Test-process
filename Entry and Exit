@@ -1,0 +1,15 @@
+                       The deliverable for Entry criteria or Exit criteria and reason.
+
+Test Execution Report: Entry Criteria
+reason:
+It is not an Entry Criteria because Entry Criteria are the conditions that must be met before testing begins, whereas the Test Execution Report is generated after testing is complete.
+Test Execution Report:
+The Test Execution Report is an Exit Criteria deliverable.
+Reason:
+The Test Execution Report is generated after test execution is complete, summarizing the results, including pass/fail status, defects found, and test coverage. 
+This report provides stakeholders with a clear understanding of the testing outcome and any defects or issues that need attention.
+
+Why Exit Criteria?
+1. Post-testing: The report is generated after testing is complete.
+2. Summarizes results: It provides a summary of test execution results, defects, and test coverage.
+3. Stakeholder awareness: It informs stakeholders about the testing outcome and any issues.
