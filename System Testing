@@ -1,0 +1,12 @@
+                            All the factors need to confirm that your System Testing is complete
+
+The factors ensure that system testing is thorough, and the application meets the required standards. 
+By confirming these factors, you can ensure that testing is complete, and the system is ready for release or deployment.
+Factors:
+1. Test Case Execution: All planned test cases have been executed, and results are documented.
+2. Defect Closure: All critical and high-priority defects have been resolved or mitigated.
+3. Test Coverage: All requirements have been tested, and coverage is adequate.
+4. Stakeholder Approval: Stakeholders have approved the test results and summary report.
+5. Test Exit Criteria: All test exit criteria have been met, as defined in the test plan.
+6. No Critical Issues: No critical or blocking issues remain unresolved.
+7. Test Environment: Test environment is restored to its original state.
